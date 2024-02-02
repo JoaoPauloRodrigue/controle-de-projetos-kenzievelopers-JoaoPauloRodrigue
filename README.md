@@ -10,21 +10,9 @@ Através dessa API deve ser possível realizar o registro do desenvolvedor, asso
 
 #
 
-## **Regras da entrega**
 
-A entrega deve seguir as seguintes regras:
 
-- O código deve estar em TypeScript, caso não esteja a **entrega será zerada**;
-- Deverá ser utilizado um banco de dados **_postgres_** para a elaboração da API;
-- O nome da tabela, das colunas e demais especificações, devem ser seguidas **à risca**. Caso tenha divergência, **será descontado nota**;
-- **Tenha muita atenção sobre o nome das chaves nos objetos de entrada e saída de cada requisição**;
-- **Na raiz do diretório** deve-se conter uma pasta nomeada **sql**, com dois arquivos:
-
-  - **createTables.sql**: contendo as queries de criação e inserção das tabelas;
-  - **diagram.png/jpg**: um arquivo **_.png_** ou **_.jpg_** contendo o diagrama da tabela;
-    - caso o arquivo **_createTables.sql_** não exista, **a entrega será zerada**.
-
-**Essa entrega possui testes automatizados**;
+** Possui testes automatizados**;
 
 - É necessário executar um **npm install** assim que fizer o clone do repositório para que as depedências dos testes sejam instaladas.
 - É necessário criar um banco de dados separado para a execução dos testes.

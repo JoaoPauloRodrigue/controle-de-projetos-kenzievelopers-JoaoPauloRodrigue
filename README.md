@@ -2,13 +2,11 @@
 
 ## **Introdução**
 
-Uma startup de tecnologia e desenvolvimento web decidiu criar uma API Rest para gerenciar seus desenvolvedores e projetos. Como você é um dos novos integrantes da equipe, você foi o escolhido para desenvolver essa aplicação.
+Este projeto tem como finalidade simular uma startup de tecnologia e desenvolvimento web que decidiu criar uma API Rest para gerenciar seus desenvolvedores e projetos.
 
 Através dessa API deve ser possível realizar o registro do desenvolvedor, associar informações extras ao mesmo e registrar os projetos de cada desenvolvedor.
 
-A seguir estarão todas as regras de negócio definidas pela startup para esse projeto. Lembre-se de seguir à risca todas as regras impostas.
 
-Vamos lá?!
 
 #
 
